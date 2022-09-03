@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">smsbotv2</string>
+    <string name="wrong_setup">Please enter phone number and webhook url.</string>
+    <string name="save_setup">successfully saved.</string>
+</resources>

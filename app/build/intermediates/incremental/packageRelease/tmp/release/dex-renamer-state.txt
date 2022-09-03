@@ -1,0 +1,4 @@
+#Sat Sep 03 10:51:36 ICT 2022
+base.0=/Users/ton/Documents/【Development】/【Dev】AndroidStudioProjects/Java/smsbot_v2/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
